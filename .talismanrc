@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: src/main/resources/data.sql
+  checksum: d4e1872b15bf41469a0e0162b47d71f44f40c1be81bc6afa1a0dd86868c1eb8f
