@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Application config (if contains secrets)
+src/main/resources/application-dev.yaml
+src/main/resources/application.yaml
+
+# Seed data (optional)
+src/main/resources/data.sql
+
+# Others
+tmp/
+test-output/
+target/
+
